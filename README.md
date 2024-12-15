@@ -15,22 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a graduated physicist (M.Sc. at KIT, 2024) particularly interested in software development and data science.
-
-The main subjects of my studies were astroparticle and theoretical particle physics.
-
+I am a graduated physicist (M.Sc. at KIT, 2024) particularly interested in **software development** and **data science**.
+The main subjects of my studies were *astroparticle* and *theoretical particle physics*.
 I speak *English*, *German*, and a little bit of *Spanish*.
 
 ### Programming experience
 
-- **Python** (*advanced*)
+- **Python** (*advanced*):
   - published package [visdata](https:github.com/PhilippMeder/visdata)
   - developed a python framework for my Master's Thesis  
   - a lot of unpublished private projects
-- **Fortran** (*basic*)
-  - used for my Bachelor's Thesis
-- **C++** (*basic*)
-  - basic knowledge from university lectures
+- **Fortran** (*basic*): used for my Bachelor's Thesis
+- **C++** (*basic*): basic knowledge from university lectures
 
 In addition, my minor subjects at university were **computer science** (including a lecture in **software development**) and **optimisation theory**.
 
