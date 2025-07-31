@@ -22,7 +22,7 @@ I speak *English*, *German*, and a little bit of *Spanish*.
 ### Programming experience
 
 - **Python** (*advanced*):
-  - published package [visdata](https://github.com/PhilippMeder/visdata)
+  - published package [pkgcreator](https://github.com/PhilippMeder/pkgcreator)
   - developed a python framework for my Master's Thesis  
   - a lot of unpublished private projects
 - **Fortran** (*basic*): used for my Bachelor's Thesis
